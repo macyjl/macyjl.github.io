@@ -28,6 +28,9 @@ header {
 	display: inline
 }
 
+article {
+	max-width: 650px;
+}
 
 
 	
