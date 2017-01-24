@@ -22,6 +22,8 @@ ul {
 
 header {
 	text-align: center;
+	background: url(moutains.jpg);
+	background-size: 700;
 }
 
 .heading {
