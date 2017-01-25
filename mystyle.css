@@ -27,11 +27,6 @@ header {
 	
 }
 
-.heading {
-	display: inline
-	 padding: 0px 10px 0px 10px;
-} 
-
 article {
 	max-width: 700px;
 	padding: 20px;
