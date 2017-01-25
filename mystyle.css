@@ -4,6 +4,7 @@ body {
 
 p {
 	color: rgb(70, 128, 146)
+	font-family: Impact, Charcoal, sans-serif;
 }
 
 h1 {
@@ -27,7 +28,7 @@ ol {
 header {
 	text-align: center;
 	background: url(https://lh3.google.com/u/0/d/0B9inBrUOpSxiX0VBbWR2eE1KaDQ=w1920-h875-iv1);
-	background-size: 500px;
+	background-size: cover;
 	
 }
 
@@ -42,6 +43,7 @@ article {
 	display: inline;
 	 padding: 0px 10px 0px 10px;
 } 
+
 
 
 
