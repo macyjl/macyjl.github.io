@@ -4,7 +4,7 @@ body {
 
 p {
 	color: rgb(70, 128, 146)
-	font-family: Impact, Charcoal, sans-serif;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 
 h2 {
 	color: floralwhite
-	
+	font-family: Impact, Charcoal, sans-serif;
 }
 
 ul {
