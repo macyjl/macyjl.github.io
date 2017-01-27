@@ -1,5 +1,5 @@
 body {
-	background:rgb(79, 79, 79);
+	background:rgb(74,89,105);
 }
 
 p {
@@ -34,6 +34,7 @@ article {
 	max-width: 700px;
 	padding: 20px;
 	margin: 0 auto;
+	background:(79, 79, 79)
 }
 
 
